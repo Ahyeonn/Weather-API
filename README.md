@@ -270,4 +270,4 @@ The goal of this challenge is write a method that will do that. This method shou
 
 The method should also take a number of milliseconds which will set the time between updates.
 
-
+[![Deploy static content to Pages](https://github.com/Ahyeonn/Weather-API/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/Ahyeonn/Weather-API/actions/workflows/static.yml)
